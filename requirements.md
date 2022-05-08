@@ -51,7 +51,7 @@ To develop a python library to perform various mathematical operations
     Assigned To: Name of the software developer. Example: K. Raja    
 
 ### Module 11:
-Note: Start working in module-11 after finishing 1 to 10 modules.
+Note: Start working in module-11 after finishing 1 to 10 modules. All the definitions to be created in utility.py file by multiple team members.
 
     Filename: utility.py    
     Object: Write a python method/function to perform the following operation and test it.
