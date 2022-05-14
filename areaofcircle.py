@@ -1,4 +1,4 @@
 PI = 3.14
-radius = float(input(' Please Enter the radius of a circle: '))
-area = PI * radius * radius
-print(" Area Of a Circle = area + "sq ms")
+r = float(input("Enter the radius of a circle:"))
+area = PI * r * r
+print("Area of a circle = %.2f" %area)
